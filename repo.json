@@ -14,7 +14,7 @@
             "developerName": "Mojang",
             "subtitle": "Minecraft on your Apple TV.",
             "localizedDescription": "idk",
-            "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/apple.default.icon.png",
+            "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.png",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -23,7 +23,7 @@
                   "version": "1.1.5",
                   "date": "2016-12-19",
                   "localizedDescription": "Minecraft on your Apple TV.",
-                  "downloadURL": "https://github.com/Bonnie39/mobile-tapgame/releases/download/build-1/tapgame.ipa",
+                  "downloadURL": "https://github.com/Bonnie39/trollappstv.testrepo/releases/download/thing-so-i-can-distribute-ipa-1.0/com.mojang.minecraftappletv_1.1.5.ipa",
                   "size": 144082146
                 }
               ],

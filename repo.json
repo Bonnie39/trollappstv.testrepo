@@ -15,9 +15,13 @@
             "subtitle": "Minecraft on your Apple TV.",
             "localizedDescription": "idk",
             "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.png",
-            "headerURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.png",
+            "headerURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.keyart.png",
             "tintColor": "#60DF89",
             "screenshotURLs": [
+              "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/demoscreenshot.png",
+              "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/demoscreenshot.png",
+              "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/demoscreenshot.png",
+              "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/demoscreenshot.png"
             ],
             "versions": [
                 {

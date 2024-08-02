@@ -55,7 +55,29 @@
               }
             ],
           "appPermissions": {}
-      }
+        },
+        {
+          "name": "browser",
+          "bundleIdentifier": "com.nito.flappyTV",
+          "developerName": "nito",
+          "subtitle": "flappytv.",
+          "localizedDescription": "",
+          "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.png",
+          "headerURL": "https://raw.githubusercontent.com/Bonnie39/trollappstv.testrepo/main/assets/com.mojang.minecraftappletv.png",
+          "tintColor": "#60DF89",
+          "screenshotURLs": [
+          ],
+          "versions": [
+              {
+                "version": "1.0",
+                "date": "2022-12-11",
+                "localizedDescription": "flappytv",
+                "downloadURL": "https://github.com/Bonnie39/trollappstv.testrepo/releases/download/thing-so-i-can-distribute-ipa-1.2/browser.ipa",
+                "size": 144082146
+              }
+            ],
+          "appPermissions": {}
+        }
     ],
     "news": []
   }

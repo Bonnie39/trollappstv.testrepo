@@ -61,6 +61,7 @@
         {
           "name": "browser",
           "bundleIdentifier": "com.nito.flappyTV",
+          "bundleName": "browser.app",
           "developerName": "nito",
           "subtitle": "flappytv.",
           "localizedDescription": "",
